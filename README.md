@@ -56,9 +56,11 @@
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
     </td>
-        <td align="center" width="72" height="96">
+    <td align="center" width="72" height="96"></td>
+    <td align="center" width="72" height="96">
       <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
     </td>
+    <td align="center" width="72" height="96"></td>
     <td align="center" width="72" height="96">
       <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
     </td>
