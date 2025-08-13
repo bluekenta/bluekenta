@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=フロントエンド・フルスタック・アジャイル;Frontend・FullStack・Agile;前端・全栈・敏捷)](https://git.io/typing-svg)
-
-## 経験がある言語、フレームワーク、ツール等 🛠
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%2336BCF7&size=48&center=true&vCenter=true&width=1200&height=100&lines=Frontend・FullStack・Agile;フロントエンド・フルスタック・アジャイル;前端・全栈・敏捷)](https://git.io/typing-svg)
 
 <table align="center">
   <tr>
@@ -138,3 +136,4 @@
     </td>
   </tr>
 </table>
+
