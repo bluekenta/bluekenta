@@ -14,6 +14,9 @@
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
     </td>
+    <td align="center" width="72" height="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+    </td>
     <!-- <td align="center" width="96" height="96">
       <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
     </td> -->
@@ -37,9 +40,9 @@
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
     </td>
-    <td align="center" width="96" height="96">
+    <!-- <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-    </td>
+    </td> -->
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
     </td>
@@ -61,13 +64,7 @@
       <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
     </td>
     <td align="center" width="96" height="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
-    </td>
-    <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-    </td>
-    <td align="center" width="96" height="96">
-      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
     </td>
   </tr>
   <tr>
@@ -80,15 +77,15 @@
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
     </td>
-    <td align="center" width="96" height="96">
+    <!-- <td align="center" width="96" height="96">
       <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
-    </td>
+    </td> -->
     <td align="center" width="96" height="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
     </td>
-    <td align="center" width="96" height="96">
+    <!-- <td align="center" width="96" height="96">
       <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
-    </td>
+    </td> -->
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
     </td>
@@ -112,9 +109,6 @@
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
     </td>
-    <td align="center" width="96" height="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-    </td>
   </tr>
   <tr>
     <!-- <td align="center" width="96" height="96">
@@ -124,15 +118,21 @@
       <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
     </td> -->
     <!-- <td align="center" width="72" height="96"></td> -->
-    <td align="center" width="72" height="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-    </td>
     <!-- <td align="center" width="72" height="96"></td> -->
     <td align="center" width="72" height="96">
       <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
     </td>
     <td align="center" width="72" height="96">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="AndroidStudio" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
     </td>
   </tr>
   <tr>
@@ -147,9 +147,6 @@
     </td>
     <td align="center" width="96" height="96">
       <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/openai.webp" width="48" height="48" alt="Openai" />
-    </td>
-    <td align="center" width="96" height="96">
-      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png" width="48" height="48" alt="HuggingFace" />
     </td>
     <td align="center" width="96" height="96">
       <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/bedrock-color.png" width="48" height="48" alt="Bedrock" />
