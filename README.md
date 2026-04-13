@@ -9,24 +9,27 @@
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TS" width="48" height="48" />
     </td>
     <td align="center" width="96" height="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
+    </td>
+    <!-- <td align="center" width="96" height="96">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
+    </td> -->
+    <!-- <td align="center" width="96" height="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+    </td> -->
+    <!-- <td align="center" width="96" height="96">
+      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+    </td> -->
+  </tr>
+  <tr>
+    <td align="center" width="96" height="96">
         <img src="https://skillicons.dev/icons?i=expressjs" width="48" height="48" alt="Express.js" />
     </td>
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="Nest.js" />
-    </td>
-    <td align="center" width="96" height="96">
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="48" height="48" />
-    </td>
-    <td align="center" width="96" height="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-    </td>
-    <td align="center" width="96" height="96">
-      <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96" height="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
     </td>
     <td align="center" width="96" height="96">
       <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="48" height="48" />
@@ -38,33 +41,11 @@
       <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
     </td>
     <td align="center" width="96" height="96">
-      <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-    </td>
-    <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
     </td>
-    <td align="center" width="96" height="96">
+    <!-- <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=symfony" width="48" height="48" alt="Symfony" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96" height="96">
-      <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-    </td>
-    <td align="center" width="96" height="96">
-      <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-    </td>
-    <td align="center" width="72" height="96"></td>
-    <td align="center" width="72" height="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-    </td>
-    <td align="center" width="72" height="96"></td>
-    <td align="center" width="72" height="96">
-      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
-    </td>
-    <td align="center" width="72" height="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="AndroidStudio" />
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center" width="96" height="96">
@@ -119,9 +100,9 @@
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
     </td>
-    <td align="center" width="96" height="96">
+    <!-- <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
-    </td>
+    </td> -->
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
     </td>
@@ -133,6 +114,45 @@
     </td>
     <td align="center" width="96" height="96">
       <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+    </td>
+  </tr>
+  <tr>
+    <!-- <td align="center" width="96" height="96">
+      <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
+    </td> -->
+    <!-- <td align="center" width="96" height="96">
+      <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
+    </td> -->
+    <!-- <td align="center" width="72" height="96"></td> -->
+    <td align="center" width="72" height="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+    </td>
+    <!-- <td align="center" width="72" height="96"></td> -->
+    <td align="center" width="72" height="96">
+      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" />
+    </td>
+    <td align="center" width="72" height="96">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="AndroidStudio" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96" height="96">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" width="48" height="48" alt="Claude" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/cursor.webp" width="48" height="48" alt="Cursor" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/copilot-color.png" width="48" height="48" alt="Copilot" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-avatar/avatars/openai.webp" width="48" height="48" alt="Openai" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png" width="48" height="48" alt="HuggingFace" />
+    </td>
+    <td align="center" width="96" height="96">
+      <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/bedrock-color.png" width="48" height="48" alt="Bedrock" />
     </td>
   </tr>
 </table>
